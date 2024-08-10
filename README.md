@@ -1,4 +1,4 @@
-# K-Means Clustering for Retail Store Customer Segmentation
+# Customer Segmentation
 
 ### Project Overview
 This project uses the K-Means clustering algorithm to group customers of a retail store based on their purchase history and demographic information. The goal is to identify distinct customer segments that can be targeted for personalized marketing strategies. Here we segment customers based on their age, annual income, and spending score. The Elbow Method is used to determine the optimal number of clusters, and the Silhouette Score is calculated to evaluate the clustering performance.
